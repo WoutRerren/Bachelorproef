@@ -25,8 +25,8 @@
   year = {2009}
 }
 
-@WWW{Termen2018,
-  author = {Termen, Marketing},
+@WWW{MarketingTermen2018,
+  author = {MarketingTermen},
   title  = {E-commerce},
   year   = {2018},
   url    = {https://Marketingtermen.nl/begrip/e-commerce},
@@ -44,6 +44,36 @@
   title  = {Wat is een CMS?},
   year   = {2014},
   url    = {https://www.forresult.nl/i/wat-is-een-cms},
+}
+
+@WWW{w3techs2018,
+  author = {w3techs},
+  title  = {Usage of content management systems for websites},
+  year   = {2018},
+  url    = {https://w3techs.com/technologies/overview/content_management/all},
+}
+
+@WWW{Postma2018,
+  author = {{Postma, Wouter}},
+  editor = {WPLOUNGE},
+  title  = {Wat is Wordpress?},
+  year   = {2018},
+  url    = {https://www.wplounge.nl/wat-is-wordpress/},
+}
+
+@WWW{Drupal2018,
+  author = {Drupal},
+  title  = {Our history},
+  year   = {2018},
+  url    = {https://www.drupal.org/about/history},
+}
+
+@Book{Crowder2009,
+  author   = {Crowder, Kenneth and Severdia, Ron},
+  title    = {Using Joomla},
+  year     = {2009},
+  subtitle = {A brief history of Joomla},
+  url      = {https://www.oreilly.com/library/view/using-joomla/9781449377434/},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
