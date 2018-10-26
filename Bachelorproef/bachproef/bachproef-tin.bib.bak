@@ -25,11 +25,25 @@
   year = {2009}
 }
 
-@WWW{TermenMarketing2018,
+@WWW{Termen2018,
   author = {Termen, Marketing},
   title  = {E-commerce},
   year   = {2018},
   url    = {https://Marketingtermen.nl/begrip/e-commerce},
+}
+
+@WWW{wphandleiding2015,
+  author = {wphandleiding},
+  title  = {Wat is het wordpress CMS?},
+  year   = {2015},
+  url    = {https://www.wphandleiding.nl/wordpress-kennisbank/wordpress-informatie/wat-een-content-management-systeem-cms/},
+}
+
+@WWW{forresult2014,
+  author = {forresult},
+  title  = {Wat is een CMS?},
+  year   = {2014},
+  url    = {https://www.forresult.nl/i/wat-is-een-cms},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
