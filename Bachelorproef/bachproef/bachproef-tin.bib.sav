@@ -85,7 +85,7 @@
 
 @Thesis{DeHaes2016,
   author      = {De Haes, Robin},
-  title       = {De veiligheid van de meest gebruikte content management syst emen op basis van de owasp top 10},
+  title       = {de veiligheid van de meest gebruikte content management syst emen op basis van de owasp top 10},
   institution = {HoGent},
   year        = {2016},
 }

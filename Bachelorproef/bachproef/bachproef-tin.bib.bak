@@ -83,4 +83,11 @@
   year    = {2011},
 }
 
+@Thesis{DeHaes2016,
+  author      = {De Haes, Robin},
+  title       = {DE VEILIGHEID VAN DE MEEST GEBRUIKTE CONTENT MANAGEMENT SYST EMEN OP BASIS VAN DE OWASP TOP 10},
+  institution = {HoGent},
+  year        = {2016},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
